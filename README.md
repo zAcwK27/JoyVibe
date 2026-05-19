@@ -1,4 +1,5 @@
 <img width="1280" height="720" alt="2052092916124200-CB7BAB704ABB44157835D81424700503" src="https://github.com/user-attachments/assets/d2358eec-5a9e-4cac-9713-d900b41a65c0" />
+
 # JoyVibe
 
 Homebrew Nintendo Switch app to manually control the four vibration parameters of each Joy-Con independently.
